@@ -15,7 +15,7 @@
 
 
 // Settings!
-$url = 'http://example.com'; // Tropo will POST incoming messages here
+$url = 'http://kalsey.com/catcher.php'; // Tropo will POST incoming messages here
 $username = ''; // using HTTP Auth on your URL?
 $password = ''; // using HTTP Auth on your URL?
 
